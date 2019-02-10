@@ -5,7 +5,7 @@ We was train the model using keras nerural network using tensorflow backend. The
 
 **Dialog**
 
-![Left Image](images/dialog.png)
+(dialog.png)
 
 **Prediction**
 ```
