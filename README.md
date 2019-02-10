@@ -5,17 +5,16 @@ We was train the model using keras nerural network using tensorflow backend. The
 
 
 **Prediction**
-'''
+```
 python dialog.py
-'''
-
+```
 **Training**
-'''
+```
 python train.py
-'''
+```
 
 **Training**
-'''
+```
 We use data Training.csv and Testing.csv are taken from a study conducted at Columbia University.
 http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
-'''
+```
