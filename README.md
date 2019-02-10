@@ -14,7 +14,8 @@ python train.py
 ```
 
 **Training**
-```
 We use data Training.csv and Testing.csv are taken from a study conducted at Columbia University.
+
+```
 http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html
 ```
