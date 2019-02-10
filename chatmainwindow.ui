@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Qt D-Bus Chat</string>
+   <string>Disease Prediction</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="predictButton">
